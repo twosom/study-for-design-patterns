@@ -1,6 +1,6 @@
 package com.icloud.factorymethod.after;
 
-public class WhiteShipFactory implements ShipFactory{
+public class WhiteShipFactory implements ShipFactory {
 
     @Override
     public Ship createShip() {
